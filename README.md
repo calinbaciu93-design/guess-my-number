@@ -49,5 +49,3 @@ guess-my-number/
 No additional dependencies or installations are required.
 
 ---
-
-*Part of my journey learning JavaScript and building interactive web applications.*
